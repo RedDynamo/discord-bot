@@ -1,7 +1,7 @@
 # Discord Bot Project
 
 ## Description
-This project is a Discord bot developed using Python. It integrates with MongoDB for data storage. The bot includes various commands to manage job applications, including adding, displaying, and (soon)updating job statuses. 
+This project is a Discord bot developed using Python. It integrates with MongoDB for data storage. The bot includes various commands to manage job applications, including adding, displaying, and (soon)updating job statuses. This is intended for your own private discord server, use in a public one at your own risk. 
 
 
 ### Prerequisites
